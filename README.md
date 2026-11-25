@@ -1,9 +1,9 @@
 # Bài tập: Quản lý học phí sinh viên
 
 ## Thông tin sinh viên
-- **Họ và tên:** [Điền họ và tên]
-- **Mã sinh viên:** [Điền mã sinh viên]
-- **Lớp:** [Điền lớp]
+- **Họ và tên:** [Nguyễn Bảo Minh]
+- **Mã sinh viên:** [B25DCCC139]
+- **Lớp:** [D25CQCC01-B]
 
 ## Cấu trúc project
 
